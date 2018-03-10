@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction</title>
+    <link>https://introduction.com/</link>
+    <description>Recent content on Introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jan 2018 16:32:26 +1300</lastBuildDate>
+    
+	<atom:link href="https://introduction.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NZ Gazette Tweeter</title>
+      <link>https://introduction.com/projects/nz-gazette-tweeter/</link>
+      <pubDate>Wed, 24 Jan 2018 16:32:26 +1300</pubDate>
+      
+      <guid>https://introduction.com/projects/nz-gazette-tweeter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://introduction.com/contact/</link>
+      <pubDate>Tue, 23 Jan 2018 18:43:07 +1300</pubDate>
+      
+      <guid>https://introduction.com/contact/</guid>
+      <description> A </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://introduction.com/about/</link>
+      <pubDate>Tue, 23 Jan 2018 18:42:58 +1300</pubDate>
+      
+      <guid>https://introduction.com/about/</guid>
+      <description>Stuff about me Words words words
+Here are more words</description>
+    </item>
+    
+  </channel>
+</rss>

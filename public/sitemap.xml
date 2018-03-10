@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://introduction.com/projects/nz-gazette-tweeter/</loc>
+    <lastmod>2018-01-24T16:32:26+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://introduction.com/contact/</loc>
+    <lastmod>2018-01-23T18:43:07+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://introduction.com/about/</loc>
+    <lastmod>2018-01-23T18:42:58+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://introduction.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://introduction.com/</loc>
+    <lastmod>2018-01-24T16:32:26+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://introduction.com/projects/</loc>
+    <lastmod>2018-01-24T16:32:26+13:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://introduction.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
