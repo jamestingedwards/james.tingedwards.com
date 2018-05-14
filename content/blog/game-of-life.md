@@ -6,9 +6,11 @@ My first encounter with Conway's Life was much less low-brow than this.[^1]
 
 Games like chess have simple rules that enable complicated gameplay. ["Conway's Life"](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) shows how even without any players, a very simple game, with rules even simpler than chess, can support surprising and interesting dynamics.
 
-In Conway's Life, the gameboard is a grid of squares which are either "alive" or "dead". The rules say for each square, based only on its immediate neighbours, whether it will be alive or dead in the next "turn". Changes occur only by mechanically following those simple rules, clearing-out squares which are too lonely or too crowded, and filling-in squares where the number of neighbours is in the "just right" goldilocks zone for reproduction. The only human input is at the initial design of the gameboard -- whether it is sparsely or densely filled, and in what pattern.
+In Conway's Life, the gameboard is a grid of squares which are either "living" or "empty". Simple rules say for each square, based on its eight neighbour squares, whether it will be alive in the next turn. There is a just right goldilocks zone between loneliness and overcrowding. Living squares with 2-3 neighbours survive, and empty squares with three neighbours fill with new life. Those with more or fewer neighbours die or remain empty.
 
-Despite its very simple rules, Life supports some complicated behaviour. "Gliders" are shapes that, when transformed under the rules, appear to move across the gameboard.
+Changes occur only by mechanically following those simple rules, clearing-out squares which are too lonely or too crowded, and filling-in squares where the number of neighbours is in the "just right" goldilocks zone for reproduction. The only human input is at the initial design of the gameboard -- whether it is sparsely or densely filled, and in what pattern.
+
+The very simple rules of Life can support surprisingly complicated behaviour. There are shapes which, by
 
 ![glider animation](img/glider.gif)
 
