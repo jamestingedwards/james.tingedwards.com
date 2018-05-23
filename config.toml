@@ -1,7 +1,7 @@
-baseurl             = "https://introduction.com/"   # Your domain name. Must end with "/"
+baseurl             = "https://james.tingedwards.com/"   # Your domain name. Must end with "/"
 languageCode        = "en-us"
 title               = "James Ting-Edwards"
-theme               = "introduction"
+theme               = "hugo-theme-introduction"
 enforce_ssl         = false
 builddrafts         = true                         # Include pages with draft status of true
 canonifyurls        = true                          # Turns relative urls into absolute urls
